@@ -17,7 +17,7 @@ This section showcases my past and ongoing projects. Each project is displayed w
 ## Education: 
 This section highlights my educational background, such as degrees earned, courses taken, and certifications obtained. It establishes my foundation of knowledge and dedication to continuous learning.
 
-##Contact: 
+## Contact: 
 A contact form or contact details are provided to enable visitors to get in touch with me. It can include email, phone number, social media profiles, or any other preferred communication methods.
 
 Setup and Installation
